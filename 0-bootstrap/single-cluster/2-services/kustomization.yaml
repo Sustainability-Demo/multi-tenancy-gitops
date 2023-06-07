@@ -3,6 +3,9 @@ resources:
 
 ## Cloud Pak for Integration
 - argocd/instances/sealed-secrets.yaml
+- argocd/instances/ibm-sfg-db2-prod.yaml
+- argocd/instances/ibm-sfg-mq-prod.yaml
+- argocd/instances/ibm-sfg-b2bi-prod-setup.yaml
 #- argocd/operators/ibm-ace-operator.yaml
 #- argocd/operators/ibm-apic-operator.yaml
 #- argocd/instances/ibm-apic-instance.yaml
